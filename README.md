@@ -6,8 +6,9 @@ A VBScript which downloads any file (or updates a file if it already exists) and
 
 ## Usage
 
-*Copy or download 'DownloadAndRunFile.vbs'
-*You can pass it four command line arguments: [url of file to download] [location to download to] [custom error message] [custom success message]
+* Copy or download 'DownloadAndRunFile.vbs'
+* You can pass it four command line arguments:
+        [url of file to download] [location to download to] [custom error message] [custom success message]
 
 ### Example usage
 
